@@ -1,7 +1,6 @@
 # Chocolate-Sales-Shipment-Analytics-Using-Power-Bi_Porject
 
-![](https://github.com/Eshwarthota2219/Chocolate-Sales-Shipment-Analytics-Using-Power-Bi_Porject/blob/main/vintage-chocolate-logo-vector-41473472.avif)
-
+![](https://github.com/Eshwarthota2219/Chocolate-Sales-Shipment-Analytics-Using-Power-Bi_Porject/blob/main/Logo)
 
 Business Requirements Document (BRD) - Chocolate Sales & Shipment Analytics
 
@@ -56,4 +55,15 @@ Description: A dedicated section of the dashboard that provides a quick, textual
 
 Purpose: To give stakeholders a concise, high-level overview without needing to analyze every single chart.
 
+Report
+![](https://github.com/Eshwarthota2219/Chocolate-Sales-Shipment-Analytics-Using-Power-Bi_Porject/blob/main/Report%20Screenshot.png)
 
+
+## Author - Thota Eshwar
+
+This project is part of my portfolio, showcasing the powerbi  skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/eshwar-thota-162a08327/)
+--**email**:[Connect with me professionally](eshwarthota2211@gmail.com)
+
+Thank you for your support, and I look forward to connecting with you!
