@@ -2,7 +2,6 @@
 
 ![](https://github.com/Eshwarthota2219/Chocolate-Sales-Shipment-Analytics-Using-Power-Bi_Porject/blob/main/Logo)
 
-![](https://github.com/Eshwarthota2219/Chocolate-Sales-Shipment-Analytics-Using-Power-Bi_Porject/blob/main/vintage-chocolate-logo-vector-41473472.avif)
 
 Business Requirements Document (BRD) - Chocolate Sales & Shipment Analytics
 
